@@ -1,0 +1,7 @@
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\bin\Debug\CursoConsoleAppProject.exe.config
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\bin\Debug\CursoConsoleAppProject.exe
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\bin\Debug\CursoConsoleAppProject.pdb
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\obj\Debug\CursoConsoleAppProj.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\obj\Debug\CursoConsoleAppProj.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\obj\Debug\CursoConsoleAppProject.exe
+C:\Users\Loc\Desktop\CursoSolution\CursoConsoleAppProject\obj\Debug\CursoConsoleAppProject.pdb

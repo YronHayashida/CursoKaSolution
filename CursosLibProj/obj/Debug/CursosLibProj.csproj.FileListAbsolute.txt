@@ -1,0 +1,6 @@
+C:\Users\Loc\Desktop\CursosLibProj\bin\Debug\CursosClass.dll
+C:\Users\Loc\Desktop\CursosLibProj\bin\Debug\CursosClass.pdb
+C:\Users\Loc\Desktop\CursosLibProj\obj\Debug\CursosLibProj.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\CursosLibProj\obj\Debug\CursosLibProj.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\CursosLibProj\obj\Debug\CursosClass.dll
+C:\Users\Loc\Desktop\CursosLibProj\obj\Debug\CursosClass.pdb

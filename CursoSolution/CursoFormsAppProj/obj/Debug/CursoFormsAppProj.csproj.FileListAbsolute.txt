@@ -1,0 +1,13 @@
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppProj.csprojAssemblyReference.cache
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppProj.csproj.GenerateResource.cache
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppProj.csproj.CoreCompileInputs.cache
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppProjNS.Form1.resources
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\bin\Debug\CursoFormsApp.exe.config
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\bin\Debug\CursoFormsApp.exe
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\bin\Debug\CursoFormsApp.pdb
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppNS.Properties.Resources.resources
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsApp.exe
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsApp.pdb
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\bin\Debug\CursosClass.dll
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\bin\Debug\CursosClass.pdb
+C:\Users\Loc\Desktop\CursoSolution\CursoFormsAppProj\obj\Debug\CursoFormsAppProj.csproj.CopyComplete
